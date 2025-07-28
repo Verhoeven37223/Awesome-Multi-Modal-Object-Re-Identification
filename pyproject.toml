@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Welcome to the Awesome Multi-Modal Object Re-Identification Repository! This repository is dedicated to curating and sharing the latest methods, datasets, and resources focused specifically on the domain of multi-modal object re-identification. It brings together cutting-edge research, tools, and pa"
 requires-python = ">=3.10"
 # guard against empty input
+# drop an unused branch
